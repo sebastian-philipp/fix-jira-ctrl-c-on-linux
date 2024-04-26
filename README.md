@@ -11,3 +11,7 @@ Script basically overrides `document.oncopy` so when you use ctrl+c or Copy comm
 Only tested in Chrome v102 to v109 on Ubuntu machine.
 
 If you use Resource Override extension, https://`companyname`.atlassian.net/browse/* should be sufficient as the Tab Url (Don't forget the asterix).
+
+## See also
+
+* <https://jira.atlassian.com/browse/JRACLOUD-81000> corresponding issue in Jira
